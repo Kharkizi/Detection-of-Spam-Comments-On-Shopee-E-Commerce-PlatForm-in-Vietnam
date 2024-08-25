@@ -1,0 +1,9 @@
+Yêu cầu: Đã cài đặt MongoDBCompass. Máy tính có kết nối mạng để load tài nguyên từ website.
+
+Lưu ý: Mở services và kiểm tra MongoDB Server đã chạy chưa. Nếu chưa thì nhấn start thể chạy.
+
+--- chạy lệnh để cài đặt thư viện ---
+pip install -r requirements.txt
+
+---Tiếp theo chạy lệnh----
+python app.py
